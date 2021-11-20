@@ -5,7 +5,7 @@
 
 
 ***当前版本仍存在较大缺陷，仅供研究用***
-
+PCB工程 https://oshwhub.com/zhang_sai/44-guan-jie-qu-dong
 
 ## 特点：  
 * 基于SIMPLE FOC实现的BLDC FOC（无电流环）控制，控制板集成控制、驱动、编码器于一体； 
