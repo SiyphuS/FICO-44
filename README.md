@@ -4,7 +4,7 @@
 ![主控板](https://github.com/SiyphuS/FICO-44/blob/main/Picture/1.jpg)
 
 
-***当前版本仍存在较大缺陷，仅供研究用** *
+***当前版本仍存在较大缺陷，仅供研究用***
 
 
 ## 特点：  
