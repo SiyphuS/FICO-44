@@ -1,6 +1,7 @@
 # 项目简介
 项目名称：FICO-44  
 简介视频：
+![主控板](http://upload-images.jianshu.io/upload_images/1097226-6a6fbea43e82e7ac.png)
 
 ## 特点：  
 * 基于SIMPLE FOC实现的BLDC FOC（无电流环）控制，控制板集成控制、驱动、编码器于一体；
