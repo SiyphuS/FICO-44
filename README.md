@@ -1,6 +1,7 @@
 # 项目简介
 项目名称：FICO-44  
-简介视频：
+简介视频：https://www.bilibili.com/video/BV1Yh41147wo/
+
 ![主控板](https://github.com/SiyphuS/FICO-44/blob/main/Picture/1.jpg)
 
 
